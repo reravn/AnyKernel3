@@ -4,17 +4,26 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=ExampleKernel by osm0sis @ xda-developers
+kernel.string=PiSun kernel by ravenere
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=maguro
-device.name2=toro
-device.name3=toroplus
-device.name4=tuna
-device.name5=
+device.name1=OnePlus8Pro
+device.name2=instantnoodlep
+device.name3=OnePlus8
+device.name4=instantnoodle
+device.name5=OnePlus8TMO
+device.name6=instantnoodlet
+device.name7=OnePlus8VZW
+device.name8=instantnoodlev
+device.name7=OnePlus8Visible
+device.name9=instantnoodlevis
+device.name10=OnePlus8T
+device.name11=kebab
+device.name12=OnePlus8TTMO
+device.name13=kebabt
 supported.versions=
 supported.patchlevels=
 supported.vendorpatchlevels=
